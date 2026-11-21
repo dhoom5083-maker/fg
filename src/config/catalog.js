@@ -1,0 +1,21 @@
+module.exports = [
+    { name: "p1", category: "لوحات", about: "لوحة الاقتراحات والأسئلة" },
+    { name: "p2", category: "لوحات", about: "لوحة التشهير" },
+    { name: "p3", category: "لوحات", about: "لوحة التفعيل" },
+    { name: "p4", category: "لوحات", about: "لوحة السجناء" },
+    { name: "p5", category: "لوحات", about: "لوحة القوانين" },
+    { name: "p6", category: "لوحات", about: "لوحة الأقيام" },
+    { name: "p7", category: "لوحات", about: "حالة الأقيام" },
+    { name: "p8", category: "لوحات", about: "لوحة نقاط الإدارة" },
+    { name: "p9", category: "لوحات", about: "تحكم الأونرية بالنقاط" },
+    { name: "p10", category: "لوحات", about: "لوحة التكتات" },
+    { name: "p11", category: "لوحات", about: "تقديم الإدارة وطلب النقل" },
+    { name: "p12", category: "حضور", about: "لوحة تسجيل الحضور" },
+    { name: "p13", category: "حضور", about: "لوحة طلب الرقابة" },
+    { name: "p14", category: "لوحات", about: "لوحة نظام الجوال", usage: "-p14" },
+    { name: "باند", category: "إدارة", about: "حظر عضو", usage: "-باند @عضو" },
+    { name: "تايم", category: "إدارة", about: "تايم أوت", usage: "-تايم @عضو 10m" },
+    { name: "تفوو", category: "إدارة", about: "طرد عضو", usage: "-تفوو @عضو" },
+    { name: "امبد", category: "أدوات", about: "إرسال أمبد جاهز", usage: "-امبد" },
+    { name: "help", category: "أدوات", about: "قائمة الأوامر", usage: "-help" }
+];
